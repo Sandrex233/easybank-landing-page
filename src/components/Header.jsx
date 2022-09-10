@@ -13,7 +13,7 @@ const Header = () => {
                     <p className='max-w-sm text-center font-normal text-gray-500 md:text-left'>Take your financial life online. Your Easybank account will be a one-stop-shop
                         for spending, saving, budgeting, investing, and much more.</p>
                     <div className="flex justify-center items-center md:justify-start">
-                        <a href='#' className='p-3 px-6 text-sm text-white bg-gradient-to-r from-green-400 to-cyan-500
+                        <a href='/' className='p-3 px-6 text-sm text-white bg-gradient-to-r from-green-400 to-cyan-500
                 rounded-full baseline hover:opacity-70 font-medium max-w-[150px]'>Request Invite</a>
                     </div>
                 </div>

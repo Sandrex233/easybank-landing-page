@@ -34,7 +34,7 @@ const Navbar = () => {
                 <li onClick={handleClick} className='hover:text-black cursor-pointer'>Blog</li>
                 <li onClick={handleClick} className='hover:text-black cursor-pointer'>Careers</li>
             </ul>
-            <a href='#' className='hidden p-3 px-6 text-sm text-white bg-gradient-to-r from-green-400 to-cyan-500
+            <a href='/' className='hidden p-3 px-6 text-sm text-white bg-gradient-to-r from-green-400 to-cyan-500
                 rounded-full baseline hover:opacity-70 font-medium md:block'>Request Invite</a>
 
 

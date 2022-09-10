@@ -17,31 +17,31 @@ const Footer = () => {
                     </div>
 
                     <div className='flex justify-center space-x-4'>
-                        <a href="#">
+                        <a href="/">
                             <img src={Facebook} alt="" className='h-5 hovered' />
                         </a>
-                        <a href="#">
+                        <a href="/">
                             <img src={Youtube} alt="" className='h-5 hovered' />
                         </a>
-                        <a href="#">
+                        <a href="/">
                             <img src={Twitter} alt="" className='h-5 hovered' />
                         </a>
-                        <a href="#">
+                        <a href="/">
                             <img src={Pinterest} alt="" className='h-5 hovered' />
                         </a>
-                        <a href="#">
+                        <a href="/">
                             <img src={Instagram} alt="" className='h-5 hovered' />
                         </a>
                     </div>
 
                     <div className='md:hidden flex justify-around space-x-32'>
                         <div className='flex flex-col space-y-3 text-center text-gray-300'>
-                            <a href="#" className="hover:text-green-500">About Us</a>
-                            <a href="#" className="hover:text-green-500">Contact</a>
-                            <a href="#" className="hover:text-green-500">Blog</a>
-                            <a href="#" className="hover:text-green-500">Careers</a>
-                            <a href="#" className="hover:text-green-500">Support</a>
-                            <a href="#" className="hover:text-green-500">Privacy Policy</a>
+                            <a href="/" className="hover:text-green-500">About Us</a>
+                            <a href="/" className="hover:text-green-500">Contact</a>
+                            <a href="/" className="hover:text-green-500">Blog</a>
+                            <a href="/" className="hover:text-green-500">Careers</a>
+                            <a href="/" className="hover:text-green-500">Support</a>
+                            <a href="/" className="hover:text-green-500">Privacy Policy</a>
                         </div>
                     </div>
 
@@ -57,15 +57,15 @@ const Footer = () => {
 
                 <div className='hidden md:flex justify-around space-x-32'>
                     <div className='flex flex-col space-y-3 text-gray-300'>
-                        <a href="#" className="hover:text-green-500">About Us</a>
-                        <a href="#" className="hover:text-green-500">Contact</a>
-                        <a href="#" className="hover:text-green-500">Blog</a>
+                        <a href="/" className="hover:text-green-500">About Us</a>
+                        <a href="/" className="hover:text-green-500">Contact</a>
+                        <a href="/" className="hover:text-green-500">Blog</a>
 
                     </div>
                     <div className='flex flex-col space-y-3 text-gray-300'>
-                        <a href="#" className="hover:text-green-500">Careers</a>
-                        <a href="#" className="hover:text-green-500">Support</a>
-                        <a href="#" className="hover:text-green-500">Privacy Policy</a>
+                        <a href="/" className="hover:text-green-500">Careers</a>
+                        <a href="/" className="hover:text-green-500">Support</a>
+                        <a href="/" className="hover:text-green-500">Privacy Policy</a>
 
                     </div>
                 </div>
