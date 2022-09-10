@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;700&display=swap');
+
+.hovered:hover {
+    filter: invert(53%) sepia(24%) saturate(1301%) hue-rotate(89deg) brightness(110%) contrast(93%);
+}
