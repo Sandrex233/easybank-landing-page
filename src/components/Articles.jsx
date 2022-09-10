@@ -7,7 +7,7 @@ import Confetti from '../assets/image-confetti.jpg'
 const Articles = () => {
     return (
         <div>
-            <div className='w-full h-screen'>
+            <div className=''>
                 <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center  w-full h-full'>
                     <div>
                         <h1 className='text-4xl font-normal'>Latest Articles</h1>
